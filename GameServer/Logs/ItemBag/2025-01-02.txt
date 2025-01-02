@@ -1,0 +1,5 @@
+16:51:40 [ItemBag][teste][MeuOvo] [Section: 5] [ItemCode: 10] [Item: 7182 Jewel of Soul +0 +0]
+16:51:40 [ItemBag][teste][MeuOvo] [Section: 5] [ItemCode: 1] [Item: 6251 Seed Sph +2 (Water) +3 +0]
+16:51:48 [ItemBag][teste][MeuOvo] [Section: 5] [ItemCode: 10] [Item: 6159 Jewel of Chaos +0 +0]
+16:51:48 [ItemBagEx][teste][MeuOvo] [Section: 20] [Effect: Full PvP Damage +2h]
+16:51:48 [ItemBag][teste][MeuOvo] [Section: 5] [ItemCode: 1] [Item: 6254 Seed Sph +2 (Lightning) +3 +0]

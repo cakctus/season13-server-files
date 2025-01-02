@@ -1,0 +1,46 @@
+3
+//	DropRate
+0	10000
+1	10000
+2	10000
+end
+
+4
+//Index   Section   SectionRate   MoneyAmount   OptionValue   DW   DK   FE   MG   DL   SU   RF  GL
+0		5		10000	0		1		1	1	1	1	1	1	1	1
+1		6		10000	0		1		1	1	1	1	1	1	1	1
+2		20		10000	0		1		1	1	1	1	1	1	1	1
+end
+
+5
+//Index	Level	Grade	Option0	Option1	Option2	Option3	Option4	Option5	Option6	Duration	Comment
+7456	0	0	*	*	*	*	*	*	*	0	//Ruud box 100000
+7456	0	0	*	*	*	*	*	*	*	0	//Ruud box 100000
+7456	0	0	*	*	*	*	*	*	*	0	//Ruud box 100000
+7456	0	0	*	*	*	*	*	*	*	0	//Ruud box 100000
+7455	0	0	*	*	*	*	*	*	*	0	//Ruud box 200000
+7455	0	0	*	*	*	*	*	*	*	0	//Ruud box 200000
+7455	0	0	*	*	*	*	*	*	*	0	//Ruud box 200000
+7524	0	0	*	*	*	*	*	*	*	0	//Ruud box 500000
+7524	0	0	*	*	*	*	*	*	*	0	//Ruud box 500000
+7513	0	0	*	*	*	*	*	*	*	0	//Mysterious Stone
+end
+
+6
+//Index	Level	Grade	Option0	Option1	Option2	Option3	Option4	Option5	Option6	Duration	Comment
+6722		0		0		*		*		*		*		*		*		*		*		//Santa Invitation
+end
+
+20
+//EFFECT	DURATION
+44			43200
+45			43200
+46			43200
+210			1800
+196			43200
+197			43200
+198			43200
+200			43200
+201			43200
+210			1800
+end

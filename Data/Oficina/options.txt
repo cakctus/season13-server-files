@@ -1,0 +1,235 @@
+//Asas Normal
+0
+//	CODE	ICOIN	RUUD		NAME
+1	9		500		12000000	"Reducao de Dano Final +10%%"
+2	25		500		12000000	"Chance de Recuperacao de HP Total +5%%"
+3	41		500		12000000	"Taxa de dano refletido +10%%"
+4	57		500		12000000	"Chance de Ignorar a Defesa do Inimigo +10%%"
+5	73		500		10000000	"Aumento de Velocidade de Dano em BOSS +30%%"
+6	89		500		12000000	"Chance de Dano Excelente +19%%"
+7	105		500		12000000	"Chance de Dano Duplo +10%%"
+8	121		500		12000000	"Aumenta pontos em Forca +1550"
+9	137		500		12000000	"Aumenta pontos em Vitalidade +1550"
+10	153		500		12000000	"Aumenta pontos em Energia +1550"
+11	169		500		12000000	"Aumenta pontos em Agilidade +1550"
+12	185		500		12000000	"Aumenta Dano Final em 10%%"
+13	201		500		10000000	"Aumenta Dano em BOSS em 10%%"
+14	217		500		10000000	"Resistencia a Poderes de BOSS +40%%"
+15	233		500		10000000	"Chance de Pegar Drops de BOSS +10%%"
+16	254		0		0			"Opcao sem designacao"
+end
+
+//Asas Elemental
+1
+//	CODE	ICOIN	RUUD		NAME
+1	15		500		5000000		"Dano Elemental PvP +15%%"
+2	31		500		5000000		"Chance de Punish +10%%"
+3	47		500		5000000		"Resistencia a Punish +30%%"
+4	63		500		5000000		"Dano Elemental PvP Elite +20%%"
+5	79		500		5000000		"Defesa Elemental PvP +15%%"
+6	95		500		5000000		"Dano Elemental em Boss +15%%"
+7	111		500		5000000		"Defesa Elemental em Boss +15%%"
+8	127		500		5000000		"Dano Adicional contra Fogo +15%%"
+9	143		500		5000000		"Dano Adicional contra Agua +15%%"
+10	159		500		5000000		"Dano Adicional contra Terra +15%%"
+11	175		500		5000000		"Dano Adicional contra Vento +15%%"
+12	191		500		5000000		"Dano Adicional contra Escuridao +15%%"
+13	207		500		5000000		"Dano Elemental Elite em Boss +20%%"
+14	223		500		5000000		"Defesa Elemental Elite em Boss +20%%"
+15	254		0		0			"Opcao sem designacao"
+end
+
+//Sets até Soul Maestrias
+2
+//	CODE	ICOIN	RUUD		NAME
+1	6		300		12000000	"Dano aumentado em 10%% contra Dark Wizards"
+2	7		300		12000000	"Dano aumentado em 10%% contra Dark Knights"
+3	8		300		12000000	"Dano aumentado em 10%% contra Fairy Elfs"
+4	9		300		12000000	"Dano aumentado em 10%% contra Magic Gladiators"
+5	10		300		12000000	"Dano aumentado em 10%% contra Dark Lords"
+6	11		300		12000000	"Dano aumentado em 10%% contra Summoners"
+7	12		300		12000000	"Dano aumentado em 10%% contra Rage Fighters"
+8	13		300		12000000	"Dano aumentado em 10%% contra Grow Lancers"
+9	14		200		10000000	"Dano contra BOSS aumentado em 15%%"
+10	15		200		10000000	"Dano Elemental aumentado em 15%%"
+end
+
+//Sets até Soul Bonus
+3
+//	CODE	ICOIN	RUUD		NAME
+1	1		100		8000000		"Chance de Dano Triplo +2%%"
+2	2		100		8000000		"Dano Final Aumentado em +15%%"
+3	3		100		8000000		"Chance de Dano de 50%% do HP Inimigo +1%%"
+4	4		100		8000000		"Chance de Dano Duplo em BOSS +5%%"
+end
+
+//Armas até Soul Maestrias
+4
+//	CODE	ICOIN	RUUD		NAME
+1	8		200		10000000	"Aceleracao de Hits em Boss +35%%"
+2	9		200		10000000	"Aumento de Dano Elemental +30%%"
+3	10		200		10000000	"Aumento de Dano em Boss +30%%"
+4	11		300		12000000	"Aumento de Dano PvP +25%%"
+5	12		300		12000000	"Chance de Dano Duplo +10%%"
+6	13		300		12000000	"Chance de Dano Triplo +3%%"
+7	14		300		12000000	"Chance de Dano Verdadeiro +2%%"
+8	15		300		12000000	"Chance de Dano de 30%% de HP +1%%"
+end
+
+//Armas até Soul Bonus
+5
+//	CODE	ICOIN	RUUD		NAME
+1	1		100		8000000		"Chance de Dano de 50%% do HP +1%%"
+2	2		100		8000000		"Chance de Dano Excelente 100%%"
+3	3		100		8000000		"Absorcao de 40%% de Dano Refletido"
+4	4		100		8000000		"Chance de Prejudicar a Cura +1%%"
+5	5		100		8000000		"Chance de Aplicar 3 seg. de Stern +1%%"
+6	6		100		8000000		"Chance de Aplicar Sangramento +1%%"
+7	7		100		8000000		"Chance de Dano Duplo em BOSS +5%%"
+end
+
+//Shield até Soul Maestrias
+6
+//	CODE	ICOIN	RUUD		NAME
+1	20		300		12000000	"Reducao de Dano PvP em 25%%"
+2	21		300		12000000	"Reducao de Dano Elemental em 30%%"
+3	22		300		12000000	"Protecao contra Dano Duplo +10%%"
+4	23		300		12000000	"Protecao contra Dano Triplo +3%%"
+5	24		300		12000000	"Protecao contra Dano Verdadeiro +1%%"
+6	25		300		12000000	"Protecao contra Dano Direto no HP +1%%"
+end
+
+//Shield até Soul Bonus
+7
+//	CODE	ICOIN	RUUD		NAME
+1	7		100		8000000		"Protecao contra Dano Direto no HP +2%%"
+2	8		100		8000000		"Aumento no Dano Refletido +40%%"
+3	9		100		8000000		"Reducao de poderes de BOSS +15%%"
+end
+
+//Rings Maestrias
+8
+//	CODE	ICOIN	RUUD		NAME
+1	30		300		15000000	"Resistencia a Empurroes PvP +15%%"
+2	31		300		15000000	"Chance de Drop de Boss +10%%"
+3	32		300		15000000	"Aumento de HP Maximo +5%%"
+4	33		300		15000000	"Aumento Chance de Block +2%%"
+5	34		300		15000000	"Resistencia a Poderes de BOSS +10%%"
+6	35		300		15000000	"Resistencia a Dano Elemental +10%%"
+7	36		300		15000000	"Reducao de Dano PvP em 5%%"
+8	37		300		15000000	"Reducao de Dano de BOSS em 5%%"
+9	38		300		15000000	"Protecao contra Dano Triplo +1%%"
+10	39		300		15000000	"Protecao contra Dano Verdadeiro +1%%"
+11	254		0		0			"Opcao sem designacao"
+end
+
+//Rings Bonus
+9
+//	CODE	ICOIN	RUUD		NAME
+1	20		300		15000000	"Chance de Bloquear Stern +50%%"
+2	21		300		15000000	"Chance de Bloquear Sangramento +50%%"
+3	22		300		15000000	"Chance de Bloquear Prejudicial de Cura +50%%"
+4	23		300		15000000	"Aumento de Taxa de Recuperacao de HP +10%%"
+5	24		300		15000000	"Aumento de Chance de Full Reflect  +2%%"
+6	25		300		15000000	"Chance de Reverter Maestrias +20%%"
+7	254		0		0			"Opcao sem designacao"
+end
+
+//Pendants Maestrias
+10
+//	CODE	ICOIN	RUUD		NAME
+1	30		200		10000000	"Aumento de Dano PvP +10%%"
+2	31		200		10000000	"Chance de Dano Triplo +1%%"
+3	32		200		10000000	"Chance de Dano Verdadeiro +1%%"
+4	33		200		10000000	"Chance de Dano Duplo +10%%"
+5	34		200		10000000	"Aumento de Dano em Boss +10%%"
+6	35		200		10000000	"Aceleracao de Hits em Boss +10%%"
+7	36		200		10000000	"Aumento de Dano Elemental +15%%"
+8	254		0		0			"Opcao sem designacao"
+end
+
+//Pendants Bonus
+11
+//	CODE	ICOIN	RUUD		NAME
+1	20		300		10000000	"Chance de Prejudicar a Cura +1%%"
+2	21		300		10000000	"Chance de Aplicar 3 seg. de Stern +1%%"
+3	22		300		10000000	"Chance de Aplicar Sangramento +1%%"
+4	23		300		10000000	"Ignora Skill Defense do Shield inimigo"
+5	24		300		10000000	"Chance de Dano de 50%% do HP +1%%"
+6	254		0		0			"Opcao sem designacao"
+end
+
+//Armas Blue Eye Maestrias
+12
+//	CODE	ICOIN	RUUD		NAME
+1	16		300		15000000	"Aceleracao de Hits em Boss +40%%"
+2	17		300		15000000	"Aumento de Dano Elemental +35%%"
+3	18		300		15000000	"Aumento de Dano em Boss +35%%"
+4	19		400		20000000	"Aumento de Dano PvP +30%%"
+5	20		400		20000000	"Chance de Dano Duplo +13%%"
+6	21		400		20000000	"Chance de Dano Triplo +4%%"
+7	22		400		20000000	"Chance de Dano Verdadeiro +3%%"
+8	23		400		20000000	"Chance de Dano de 30%% de HP +2%%"
+9	254		0		0			"Opcao sem designacao"
+end
+
+//Armas Blue Eye Bonus
+13
+//	CODE	ICOIN	RUUD		NAME
+1	8		300		15000000	"Chance de Dano de 50%% do HP +2%%"
+2	9		350		15000000	"Chance de Dano Congelante +3%%"
+3	10		300		15000000	"Absorcao de 50%% de Dano Refletido"
+4	11		300		15000000	"Chance de Prejudicar a Cura +2%%"
+5	12		300		15000000	"Chance de Aplicar 3 seg. de Stern +2%%"
+6	13		300		15000000	"Chance de Aplicar Sangramento +2%%"
+7	14		200		15000000	"Chance de Dano Duplo em BOSS +8%%"
+8	2		200		8000000		"Chance de Dano Excelente 100%%"
+9	254		0		0			"Opcao sem designacao"
+end
+
+//Sets Blue Eye Maestrias
+14
+//	CODE	ICOIN	RUUD		NAME
+1	46		400		200000000	"Dano aumentado em 12%% contra Dark Wizards"
+2	47		400		20000000	"Dano aumentado em 12%% contra Dark Knights"
+3	48		400		20000000	"Dano aumentado em 12%% contra Fairy Elfs"
+4	49		400		20000000	"Dano aumentado em 12%% contra Magic Gladiators"
+5	50		400		20000000	"Dano aumentado em 12%% contra Dark Lords"
+6	51		400		20000000	"Dano aumentado em 12%% contra Summoners"
+7	52		400		20000000	"Dano aumentado em 12%% contra Rage Fighters"
+8	53		400		20000000	"Dano aumentado em 12%% contra Grow Lancers"
+9	54		300		15000000	"Dano contra BOSS aumentado em 20%%"
+10	55		300		15000000	"Dano Elemental aumentado em 20%%"
+11	254		0		0			"Opcao sem designacao"
+end
+
+//Sets Blue Eye Bonus
+15
+//	CODE	ICOIN	RUUD		NAME
+1	10		200		15000000	"Chance de Dano Triplo +3%%"
+2	11		200		15000000	"Dano Final Aumentado em +18%%"
+3	12		200		15000000	"Chance de Dano de 50%% do HP Inimigo +2%%"
+4	13		200		15000000	"Chance de Dano Duplo em BOSS +7%%"
+5	254		0		0			"Opcao sem designacao"
+end
+
+//Shield Blue Eye Maestrias
+16
+//	CODE	ICOIN	RUUD		NAME
+1	60		400		20000000	"Reducao de Dano PvP em 30%%"
+2	61		400		20000000	"Reducao de Dano Elemental em 35%%"
+3	62		400		20000000	"Protecao contra Dano Duplo +13%%"
+4	63		400		20000000	"Protecao contra Dano Triplo +4%%"
+5	64		400		20000000	"Protecao contra Dano Verdadeiro +2%%"
+6	65		400		20000000	"Protecao contra Dano Direto no HP +2%%"
+7	254		0		0			"Opcao sem designacao"
+end
+
+//Shield Blue Eye Bonus
+17
+//	CODE	ICOIN	RUUD		NAME
+1	14		300		15000000	"Protecao contra Dano Direto no HP +3%%"
+2	15		300		15000000	"Aumento no Dano Refletido +50%%"
+3	16		300		15000000	"Reducao de poderes de BOSS +30%%"
+4	254		0		0			"Opcao sem designacao"
+end

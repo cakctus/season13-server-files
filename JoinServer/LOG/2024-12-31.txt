@@ -1,0 +1,14 @@
+16:23:19 [SocketManager] bind() failed with error: 10048
+16:23:42 [SocketManager] Server started at port [55970]
+16:23:42 [ServerManager][0] AddServer (127.0.0.1)
+16:23:42 [ServerManager][0] ServerInfo (GS_LEO) (55901) (0)
+20:18:55 [SocketManager] Server started at port [55970]
+20:19:03 [ServerManager][0] AddServer (127.0.0.1)
+20:19:03 [ServerManager][0] ServerInfo (GS_LEO) (55901) (0)
+20:31:22 [ServerManager][0] DelServer (127.0.0.1)
+20:31:57 [SocketManager] Server started at port [55970]
+20:32:03 [ServerManager][0] AddServer (127.0.0.1)
+20:32:03 [ServerManager][0] ServerInfo (GS_LEO) (55901) (0)
+20:37:49 [SocketManager] Server started at port [55970]
+20:37:56 [ServerManager][0] AddServer (127.0.0.1)
+20:37:56 [ServerManager][0] ServerInfo (GS_LEO) (55901) (0)

@@ -1,0 +1,52 @@
+//Skill	DanoPvP	DanoPvM	NomeParaReferencia
+//BK e MG
+41	185	100	//Twisting Slash
+
+//BK
+723	200	100	//Fire Blow
+59	200	100	//Combo
+
+//MG
+55	200	100	//Fire Slash
+
+//Skill	DanoPvP	DanoPvM	NomeParaReferencia
+//SM
+726	200	100	//Soul Seeker
+38	175	100	//Decay
+39	150	100	//Ice Storm
+5	1	100	//Flame
+13	1	100	//Blast
+ 
+//Skill	DanoPvP	DanoPvM	NomeParaReferencia
+//Elf
+24	200	100	//Triple shot
+235	190	100	//Multi shot
+
+//Skill	DanoPvP	DanoPvM	NomeParaReferencia
+//DL
+737	200	100	//Wind soul
+238	175	100	//Birds
+62	300	100	//EarthShake
+78	1	100	//Fire Scream
+
+//Skill	DanoPvP	DanoPvM	NomeParaReferencia
+//Sum
+215	200	100	//Chain Lightning (target, mais rápida)
+230	230	100	//Lightning Storm (range, mais lenta)
+
+//Skill	DanoPvP	DanoPvM	NomeParaReferencia
+//RF
+282	200	100	//Spirit Hook (target, mais rápida)
+263	200	100	//Dark Side (range, mais lenta)
+260	1	100	//Killing Blow
+261	1	100	//Upper Beast
+262	1	100	//Chain Drive
+264	1	100	//Dragon Roar
+265	1	100	//Dargon Slasher
+270	1	100	//Phoenix Shot
+
+
+//Skill	DanoPvP	DanoPvM	NomeParaReferencia
+//GL
+277	200	100	//Shinning peak
+279	175	100	//Breche

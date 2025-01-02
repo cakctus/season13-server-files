@@ -1,0 +1,2 @@
+23:38:31 [ItemBagEx][teste][Grow] [Section: 10] [Item: Pentagram for Beginners +1]
+23:38:31 [ItemBagEx][teste][Grow] [Section: 11] [Item: Errtel of Anger for Beginners +0]

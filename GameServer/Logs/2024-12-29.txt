@@ -1,0 +1,168 @@
+23:38:15 [ServerInfo] CashShop loaded successfully
+23:38:15 [ServerInfo] ChaosMix loaded successfully
+23:38:15 [ServerInfo] Character loaded successfully
+23:38:15 [Commands] ..\Data\Commands\Commands.txt is loaded
+23:38:16 [ServerInfo] Commands config loaded successfully
+23:38:16 [ServerInfo] Common loaded successfully
+23:38:16 [ServerInfo] Custom loaded successfully
+23:38:16 [Monster] ..\Data\Monster\MonsterSpawner.txt is loaded (Groups: 122 | Mobs: 97)
+23:38:16 gObjDel CNixiesLakeBossZone.cpp CNixiesLakeBossZone::AddMonster 171 [Class: 0]
+23:38:16 [BossZone][Error] error : CNixiesLakeBossZone.cpp 1
+23:38:16 [NixiesBoss][Regen] Regen Boss Nix. [-1], Attr:[4]
+23:38:16 [MUFC] MUFCDamageIncrease is loaded
+23:38:16 [ServerInfo] Event loaded successfully
+23:38:17 [ServerInfo] EventItemBag loaded successfully
+23:38:17 [ServerInfo] Hack loaded successfully
+23:38:17 [ServerInfo] Item loaded successfully
+23:38:18 [ServerInfo] Monster loaded successfully
+23:38:18 [ServerInfo] Move loaded successfully
+23:38:18 [ServerInfo] Quest loaded successfully
+23:38:18 [ServerInfo] Shop loaded successfully
+23:38:19 [ServerInfo] Skill loaded successfully
+23:38:19 [Oficina] Options loaded.
+23:38:19 [ServerInfo] Util loaded successfully
+23:38:19 gObjDel MonsterManager.cpp CMonsterManager::SetMonsterData 290 [Class: 0]
+23:38:19 gObjDel MonsterManager.cpp CMonsterManager::SetMonsterData 290 [Class: 0]
+23:38:19 gObjDel MonsterManager.cpp CMonsterManager::SetMonsterData 290 [Class: 0]
+23:38:19 gObjDel MonsterManager.cpp CMonsterManager::SetMonsterData 290 [Class: 0]
+23:38:19 gObjDel MonsterManager.cpp CMonsterManager::SetMonsterData 290 [Class: 0]
+23:38:19 gObjDel MonsterManager.cpp CMonsterManager::SetMonsterData 290 [Class: 0]
+23:38:19 gObjDel MonsterManager.cpp CMonsterManager::SetMonsterData 290 [Class: 0]
+23:38:19 gObjDel MonsterManager.cpp CMonsterManager::SetMonsterData 290 [Class: 0]
+23:38:19 gObjDel MonsterManager.cpp CMonsterManager::SetMonsterData 290 [Class: 0]
+23:38:19 gObjDel MonsterManager.cpp CMonsterManager::SetMonsterData 290 [Class: 0]
+23:38:19 gObjDel MonsterManager.cpp CMonsterManager::SetMonsterData 290 [Class: 0]
+23:38:19 gObjDel MonsterManager.cpp CMonsterManager::SetMonsterData 290 [Class: 0]
+23:38:19 gObjDel MonsterManager.cpp CMonsterManager::SetMonsterData 290 [Class: 0]
+23:38:20 gObjDel MonsterManager.cpp CMonsterManager::SetMonsterData 290 [Class: 0]
+23:38:20 gObjDel MonsterManager.cpp CMonsterManager::SetMonsterData 290 [Class: 0]
+23:38:20 gObjDel MonsterManager.cpp CMonsterManager::SetMonsterData 290 [Class: 0]
+23:38:20 gObjDel MonsterManager.cpp CMonsterManager::SetMonsterData 290 [Class: 0]
+23:38:20 gObjDel MonsterManager.cpp CMonsterManager::SetMonsterData 290 [Class: 0]
+23:38:20 gObjDel MonsterManager.cpp CMonsterManager::SetMonsterData 290 [Class: 0]
+23:38:20 gObjDel MonsterManager.cpp CMonsterManager::SetMonsterData 290 [Class: 0]
+23:38:20 gObjDel MonsterManager.cpp CMonsterManager::SetMonsterData 290 [Class: 0]
+23:38:20 gObjDel MonsterManager.cpp CMonsterManager::SetMonsterData 290 [Class: 0]
+23:38:20 gObjDel MonsterManager.cpp CMonsterManager::SetMonsterData 290 [Class: 0]
+23:38:20 [Blood Castle] (1) Sync Start Time. [21] min remain
+23:38:20 [Blood Castle] (1) SetState EMPTY
+23:38:20 [Blood Castle] (2) Sync Start Time. [21] min remain
+23:38:20 [Blood Castle] (2) SetState EMPTY
+23:38:20 [Blood Castle] (3) Sync Start Time. [21] min remain
+23:38:20 [Blood Castle] (3) SetState EMPTY
+23:38:20 [Blood Castle] (4) Sync Start Time. [21] min remain
+23:38:20 [Blood Castle] (4) SetState EMPTY
+23:38:20 [Blood Castle] (5) Sync Start Time. [21] min remain
+23:38:20 [Blood Castle] (5) SetState EMPTY
+23:38:20 [Blood Castle] (6) Sync Start Time. [21] min remain
+23:38:20 [Blood Castle] (6) SetState EMPTY
+23:38:20 [Blood Castle] (7) Sync Start Time. [21] min remain
+23:38:20 [Blood Castle] (7) SetState EMPTY
+23:38:20 [Castle Deep] SetState BLANK
+23:38:20 [Chaos Castle] (1) Sync Start Time. [81] min remain
+23:38:20 [Chaos Castle] (1) SetState EMPTY
+23:38:20 [Chaos Castle] (2) Sync Start Time. [81] min remain
+23:38:20 [Chaos Castle] (2) SetState EMPTY
+23:38:20 [Chaos Castle] (3) Sync Start Time. [81] min remain
+23:38:20 [Chaos Castle] (3) SetState EMPTY
+23:38:20 [Chaos Castle] (4) Sync Start Time. [81] min remain
+23:38:20 [Chaos Castle] (4) SetState EMPTY
+23:38:20 [Chaos Castle] (5) Sync Start Time. [81] min remain
+23:38:20 [Chaos Castle] (5) SetState EMPTY
+23:38:20 [Chaos Castle] (6) Sync Start Time. [81] min remain
+23:38:20 [Chaos Castle] (6) SetState EMPTY
+23:38:20 [Chaos Castle] (7) Sync Start Time. [81] min remain
+23:38:20 [Chaos Castle] (7) SetState EMPTY
+23:38:20 [Devil Square] (1) Sync Start Time. [81] min remain
+23:38:20 [Devil Square] (1) SetState EMPTY
+23:38:20 [Devil Square] (2) Sync Start Time. [81] min remain
+23:38:20 [Devil Square] (2) SetState EMPTY
+23:38:20 [Devil Square] (3) Sync Start Time. [81] min remain
+23:38:20 [Devil Square] (3) SetState EMPTY
+23:38:20 [Devil Square] (4) Sync Start Time. [81] min remain
+23:38:20 [Devil Square] (4) SetState EMPTY
+23:38:20 [Devil Square] (5) Sync Start Time. [81] min remain
+23:38:20 [Devil Square] (5) SetState EMPTY
+23:38:20 [Devil Square] (6) Sync Start Time. [81] min remain
+23:38:20 [Devil Square] (6) SetState EMPTY
+23:38:20 [Devil Square] (7) Sync Start Time. [81] min remain
+23:38:20 [Devil Square] (7) SetState EMPTY
+23:38:20 [Illusion Temple] Setando BLANK
+23:38:20 [Illusion Temple] SetState BLANK
+23:38:20 [Illusion Temple] Setando BLANK
+23:38:20 [Illusion Temple] SetState BLANK
+23:38:20 [Illusion Temple] Setando BLANK
+23:38:20 [Illusion Temple] SetState BLANK
+23:38:20 [Illusion Temple] Setando BLANK
+23:38:20 [Illusion Temple] SetState BLANK
+23:38:20 [ RAKLION ] State(0) -> END
+23:38:20 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+23:38:20 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+23:38:20 [ RAKLION ] [ BossEggRegen ] : BossEgg(15 ea)
+23:38:22 Requesting offline players
+23:38:23 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+23:38:23 [ KANTURU ] State(0) -> STANDBY
+23:38:23 [ KANTURU ][ BattleStanby ] State(0) -> START
+23:38:23 [ RAKLION ] State(10) -> IDLE
+23:41:17 [NixiesBoss][DevilIce] Activated by time
+23:41:42 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:42:41 [ KANTURU ][ BattleStanby ] State(2) -> END
+23:42:42 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+23:42:42 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+23:42:42 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+23:42:42 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+23:44:41 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+23:44:41 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+23:44:41 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+23:44:41 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+23:44:43 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+23:44:43 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+23:44:43 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+23:44:43 [ KANTURU ] State(2) -> END
+23:44:43 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+23:44:43 [ KANTURU ] State(5) -> NONE
+23:44:43 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+23:44:43 [ KANTURU ] State(0) -> STANDBY
+23:44:43 [ KANTURU ][ BattleStanby ] State(0) -> START
+23:48:02 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:49:01 [ KANTURU ][ BattleStanby ] State(2) -> END
+23:49:01 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+23:49:01 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+23:49:01 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+23:49:01 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+23:51:00 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+23:51:00 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+23:51:00 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+23:51:00 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+23:51:02 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+23:51:02 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+23:51:02 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+23:51:02 [ KANTURU ] State(2) -> END
+23:51:03 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+23:51:03 [ KANTURU ] State(5) -> NONE
+23:51:03 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+23:51:03 [ KANTURU ] State(0) -> STANDBY
+23:51:03 [ KANTURU ][ BattleStanby ] State(0) -> START
+23:54:22 [ KANTURU ][ BattleStanby ] State(1) -> NOTIFY
+23:55:21 [ KANTURU ][ BattleStanby ] State(2) -> END
+23:55:21 [ KANTURU ][ BattleStanby ] State(3) -> NONE
+23:55:21 [ KANTURU ][ Map Attr Change ] Map(0) State(1) DetailState(0)
+23:55:21 [ KANTURU ] State(1) -> BATTLE_OF_MAYA
+23:55:21 [ KANTURU ][ BattleOfMaya ] State(0) -> STANBY1
+23:57:20 [ KANTURU ][ BattleOfMaya ] State(1) -> NOTIFY1
+23:57:20 [ KANTURU ][ BattleOfMaya ] Fail!! All Battle User Die - DetailState:2
+23:57:20 [ KANTURU ][ BattleOfMaya ] State(2) -> END
+23:57:20 [ KANTURU ][ BattleOfMaya ] Success Value[0]
+23:57:22 [ KANTURU ][ BattleOfMaya ] State(17) -> ENDCYCLE
+23:57:22 [ KANTURU ][ BattleOfMaya ] State(18) -> NONE
+23:57:22 [ KANTURU ][ Map Attr Change ] Map(0) State(2) DetailState(0)
+23:57:22 [ KANTURU ] State(2) -> END
+23:57:22 [ KANTURU ][ Map Attr Change ] Map(0) State(5) DetailState(0)
+23:57:22 [ KANTURU ] State(5) -> NONE
+23:57:22 [ KANTURU ][ Map Attr Change ] Map(0) State(0) DetailState(0)
+23:57:22 [ KANTURU ] State(0) -> STANDBY
+23:57:22 [ KANTURU ][ BattleStanby ] State(0) -> START
+23:59:01 gObjDel MonsterSpawner.cpp cMonsterSpawner::EndMonster 265 [Class: 54]
+23:59:01 gObjDel MonsterSpawner.cpp cMonsterSpawner::EndMonster 265 [Class: 54]
+23:59:01 gObjDel MonsterSpawner.cpp cMonsterSpawner::EndMonster 265 [Class: 54]
+23:59:01 gObjDel MonsterSpawner.cpp cMonsterSpawner::EndMonster 265 [Class: 53]

@@ -1,0 +1,24 @@
+23:45:00 [TickTime] Iniciando evento 120 tipo 0
+23:45:00 [StartEvent] Iniciando invasão 120
+23:45:00 [StartMonster] Adicionando monstro tipo 0 do grupo 120
+23:45:00 [AddMonster] Code: 3
+23:45:00 [AddMonster] result (index): 1
+23:45:00 [AddMonster] Monstro criado: Mapa: 2 | X: 69 | Y: 181 | Index: 1
+23:46:01 [TickTime] Criando monstro tipo 1 (por tempo) na invasão 120
+23:46:01 [AddMonster] Code: 4
+23:46:01 [AddMonster] result (index): 4996
+23:46:01 [AddMonster] Monstro criado: Mapa: 2 | X: 67 | Y: 168 | Index: 4996
+23:47:01 [TickTime] Criando monstro tipo 1 (por tempo) na invasão 120
+23:47:01 [AddMonster] Code: 5
+23:47:01 [AddMonster] result (index): 4997
+23:47:01 [AddMonster] Monstro criado: Mapa: 2 | X: 71 | Y: 172 | Index: 4997
+23:48:01 [TickTime] Criando monstro tipo 1 (por tempo) na invasão 120
+23:48:01 [AddMonster] Code: 6
+23:48:01 [AddMonster] result (index): 4998
+23:48:01 [AddMonster] Monstro criado: Mapa: 2 | X: 75 | Y: 175 | Index: 4998
+23:59:01 [TickTime] Finalizando invasão 120 por tempo expirado ( 840 / 840 )
+23:59:01 [EndEvent] Finalizando invasão 120
+23:59:01 [EndMonster] Monstro deletado: 54 (1) | Grupo: 120
+23:59:01 [EndMonster] Monstro deletado: 54 (4996) | Grupo: 120
+23:59:01 [EndMonster] Monstro deletado: 54 (4997) | Grupo: 120
+23:59:01 [EndMonster] Monstro deletado: 53 (4998) | Grupo: 120
