@@ -972,3 +972,74 @@
 21:15:01 [AddMonster] Code: 22
 21:15:01 [AddMonster] result (index): 5302
 21:15:01 [AddMonster] Monstro criado: Mapa: 57 | X: 164 | Y: 177 | Index: 5302
+21:30:00 [TickTime] Iniciando evento 112 tipo 0
+21:30:00 [StartEvent] Iniciando invasão 112
+21:30:00 [StartMonster] Adicionando monstro tipo 0 do grupo 112
+21:30:00 [AddMonster] Code: 24
+21:30:00 [AddMonster] result (index): 5303
+21:30:00 [AddMonster] Monstro criado: Mapa: 0 | X: 157 | Y: 85 | Index: 5303
+21:30:44 [TickTime] Finalizando invasão 20 por tempo expirado ( 3300 / 3300 )
+21:30:44 [EndEvent] Finalizando invasão 20
+21:30:44 [EndMonster] Monstro deletado: 561 (1) | Grupo: 20
+21:30:44 [EndMonster] Monstro deletado: 561 (4996) | Grupo: 20
+21:30:44 [EndMonster] Monstro deletado: 561 (4997) | Grupo: 20
+21:30:44 [EndMonster] Monstro deletado: 561 (4998) | Grupo: 20
+21:33:01 [TickTime] Criando monstro tipo 1 (por tempo) na invasão 112
+21:33:01 [AddMonster] Code: 25
+21:33:01 [AddMonster] result (index): 11397
+21:33:01 [AddMonster] Monstro criado: Mapa: 0 | X: 135 | Y: 81 | Index: 11397
+21:35:00 [TickTime] Iniciando evento 21 tipo 0
+21:35:00 [StartEvent] Iniciando invasão 21
+21:35:00 [StartMonster] Adicionando monstro tipo 0 do grupo 21
+21:35:00 [AddMonster] Code: 48
+21:35:00 [AddMonster] result (index): 5304
+21:35:00 [AddMonster] Monstro criado: Mapa: 56 | X: 182 | Y: 218 | Index: 5304
+21:35:00 [StartMonster] Adicionando monstro tipo 0 do grupo 21
+21:35:00 [AddMonster] Code: 49
+21:35:00 [AddMonster] result (index): 5305
+21:35:00 [AddMonster] Monstro criado: Mapa: 56 | X: 235 | Y: 59 | Index: 5305
+21:35:00 [StartMonster] Adicionando monstro tipo 0 do grupo 21
+21:35:00 [AddMonster] Code: 50
+21:35:00 [AddMonster] result (index): 11398
+21:35:00 [AddMonster] Monstro criado: Mapa: 56 | X: 7 | Y: 49 | Index: 11398
+21:35:00 [StartMonster] Adicionando monstro tipo 0 do grupo 21
+21:35:00 [AddMonster] Code: 51
+21:35:00 [AddMonster] result (index): 11770
+21:35:00 [AddMonster] Monstro criado: Mapa: 56 | X: 67 | Y: 240 | Index: 11770
+21:40:44 [TickTime] Finalizando invasão 110 por tempo expirado ( 3300 / 3300 )
+21:40:44 [EndEvent] Finalizando invasão 110
+21:40:44 [EndMonster] Monstro deletado: 136 (4999) | Grupo: 110
+21:40:44 [EndMonster] Monstro deletado: 136 (5000) | Grupo: 110
+21:40:44 [EndMonster] Monstro deletado: 136 (11774) | Grupo: 110
+21:40:44 [EndMonster] Monstro deletado: 136 (11775) | Grupo: 110
+21:40:44 [EndMonster] Monstro deletado: 136 (11776) | Grupo: 110
+21:40:44 [EndMonster] Monstro deletado: 137 (11777) | Grupo: 110
+21:40:45 [EndMonster] Monstro deletado: 137 (11778) | Grupo: 110
+21:40:45 [EndMonster] Monstro deletado: 137 (5001) | Grupo: 110
+21:40:45 [EndMonster] Monstro deletado: 137 (5002) | Grupo: 110
+21:40:45 [EndMonster] Monstro deletado: 137 (5003) | Grupo: 110
+21:40:45 [EndMonster] Monstro deletado: 135 (5301) | Grupo: 110
+21:45:00 [TickTime] Iniciando evento 113 tipo 0
+21:45:00 [StartEvent] Iniciando invasão 113
+21:45:00 [StartMonster] Adicionando monstro tipo 0 do grupo 113
+21:45:00 [AddMonster] Code: 0
+21:45:00 [AddMonster] result (index): 11771
+21:45:00 [AddMonster] Monstro criado: Mapa: 3 | X: 154 | Y: 125 | Index: 11771
+21:45:00 [StartMonster] Adicionando monstro tipo 0 do grupo 113
+21:45:00 [AddMonster] Code: 1
+21:45:00 [AddMonster] result (index): 11399
+21:45:00 [AddMonster] Monstro criado: Mapa: 0 | X: 140 | Y: 79 | Index: 11399
+21:45:47 [TickTime] Finalizando invasão 98 por tempo expirado ( 18000 / 18000 )
+21:45:47 [EndEvent] Finalizando invasão 98
+21:45:47 [EndMonster] Monstro deletado: 83 (11403) | Grupo: 98
+21:45:47 [EndMonster] Monstro deletado: 82 (11773) | Grupo: 98
+22:45:00 [TickTime] Iniciando evento 116 tipo 0
+22:45:00 [StartEvent] Iniciando invasão 116
+22:45:00 [StartMonster] Adicionando monstro tipo 0 do grupo 116
+22:45:00 [AddMonster] Code: 24
+22:45:00 [AddMonster] result (index): 11770
+22:45:00 [AddMonster] Monstro criado: Mapa: 0 | X: 152 | Y: 79 | Index: 11770
+22:48:01 [TickTime] Criando monstro tipo 1 (por tempo) na invasão 116
+22:48:01 [AddMonster] Code: 25
+22:48:01 [AddMonster] result (index): 1
+22:48:01 [AddMonster] Monstro criado: Mapa: 0 | X: 160 | Y: 58 | Index: 1

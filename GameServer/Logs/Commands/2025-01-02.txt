@@ -11,3 +11,5 @@
 19:59:47 [CommandAddPoint][teste][MeuOvo] - (Type: 1, Amount: 150)
 20:02:49 [CommandAddPoint][teste][MeuOvo] - (Type: 0, Amount: 160)
 20:05:59 [CommandAddPoint][teste][MeuOvo] - (Type: 0, Amount: 120)
+22:50:38 [CommandMakeSerial][teste][Rage] - (Section: 2, Type: 2, TimerRandom: 0, Skill: 0, Skill: 0, Option: 0, Exc: 0, Set: 0)
+22:51:34 [CommandMakeSerial][teste][Rage] - (Section: 2, Type: 14, TimerRandom: 244, Skill: 1, Skill: 0, Option: 0, Exc: 0, Set: 0)

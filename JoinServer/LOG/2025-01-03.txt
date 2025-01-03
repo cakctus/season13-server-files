@@ -1,0 +1,8 @@
+14:06:39 [SocketManager] Server started at port [55970]
+14:06:48 [ServerManager][0] AddServer (127.0.0.1)
+14:06:48 [ServerManager][0] ServerInfo (GS_LEO) (55901) (0)
+14:41:56 Could not connect to database
+14:44:48 [SocketManager] Server started at port [55970]
+14:44:50 [ServerManager][0] AddServer (127.0.0.1)
+14:44:50 [ServerManager][0] ServerInfo (GS_LEO) (55901) (0)
+18:20:07 [ServerManager][0] DelServer (127.0.0.1)
